@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![mncc8337's GitHub stats](https://github-readme-stats.vercel.app/api?username=mncc8337)](https://github.com/anuraghazra/github-readme-stats)
+<!--![mncc8337's GitHub stats](https://github-readme-stats.vercel.app/api?username=mncc8337)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mncc8337)
+
 <!--
 **mncc8337/mncc8337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
