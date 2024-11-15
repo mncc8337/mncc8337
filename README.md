@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--![mncc8337's GitHub stats](https://github-readme-stats.vercel.app/api?username=mncc8337)-->
+![mncc8337's GitHub stats](https://github-readme-stats.vercel.app/api?username=mncc8337)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mncc8337)
 
 <!--
